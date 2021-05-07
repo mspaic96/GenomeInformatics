@@ -10,7 +10,7 @@
   <ul>
     <li>README.md</li>
     <li>notebook.ipynb - Jupyther notebook with source code</li>
-    <li>output.csv - output of Jupyther notebook</li>
+    <li>CoffeeArabicaOutput.csv - output of Jupyther notebook</li>
     <li>presentation.pptx - presentation of this project</li>
        
     
