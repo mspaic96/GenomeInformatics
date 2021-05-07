@@ -1,6 +1,6 @@
 # Optimization of string searching algorithm using BWT & FM index
   <p>
- <div> Repository for the master course of Genomic Informatics at the School of Electrical Engineering </div>
+ <div> Repository for the master course of Genomic Informatics at the School of Electrical Engineering in Belgrade </div>
   The main goal of this project is analysis and improvement  of string searching algorithm using BWT & FM index
   <br>
   </p>
