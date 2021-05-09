@@ -4,7 +4,7 @@
   The main goal of this project is analysis and improvement  of string searching algorithm using BWT & FM index
   <br>
   </p>
-  <a href="https://www.youtube.com/embed/NyC_FMAgIP4">Youtube video</a>
+  <a href="https://youtu.be/2SiScMkcJ_4">Youtube video</a>
   
   <h2> Contents </h2>
   <ul>
