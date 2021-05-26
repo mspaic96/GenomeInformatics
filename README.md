@@ -3,6 +3,7 @@
  <div> Repository for the master course of Genome Informatics at the School of Electrical Engineering in Belgrade </div>
   The main goal of this project is analysis and improvement  of string searching algorithm using BWT & FM index
   <br>
+  You need to install Pympler and Bio , as they are used in this analysis. Yuo can install them easy with commands pip install Pympler and pip install Bio.
   </p>
   <a href="https://youtu.be/2SiScMkcJ_4">Youtube video</a>
   
